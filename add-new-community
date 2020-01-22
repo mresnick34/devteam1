@@ -1,0 +1,2 @@
+Sample code for add new community feature in GitHub.
+Form fields include community name, purpose, duration, and public/private. Feature allows for you to select from existing users in your organization or to invite a new user to join.
